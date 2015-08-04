@@ -1,20 +1,5 @@
-Rummaging
+Gemplate
 ==============
 
-Rummage through your nested data structures with flexible queries.
+A barebones gem template. Someday maybe with some scripty goodness.
 
-Requirements
------------------
-
-* An overwhelming urge to quickly access nested data.
-
-Installation
------------------
-
-    gem install rummaging
-
-
-Getting Started
------------------
-
-Start coding.
