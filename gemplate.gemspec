@@ -6,9 +6,9 @@ Gem::Specification.new do |s|
   s.version     = Gemplate::VERSION.dup
   s.date        = Gemplate::RELEASE_DATE.dup
   s.summary     = "Gemplate!"
-  s.description = "A template for my gems!"
-  s.authors     = ["Craig Waterman"]
-  s.email       = 'craigwaterman@gmail.com'
+  s.description = "{{description}}"
+  s.authors     = ["{{author}}"]
+  s.email       = "{{email}}"
   s.homepage    =
       'http://rubygems.org/gems/gemplate'
   s.license       = 'MIT'
